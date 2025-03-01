@@ -7,7 +7,7 @@ the average case doesn't influence the blue part which traversal the array O(N) 
 
 ## part II
 since the index start with 1 , so the traversal is o(N-1) , if it's the wrost case, the first number will move 1 step the second will move 2 step which is O(N).
-On math part (N-1)*N which N = 5 :   4*5 = 20. it's O(20)
+On math part (N-1)*N which N = 5 :            4  *  5 = 20. it's O(20)
 
 
 ## part III
