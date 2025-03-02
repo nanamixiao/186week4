@@ -22,7 +22,7 @@ I will change the foundX = true; to "return true; "  in that case the average is
 
 ## video
 
-
+https://youtu.be/RngWtVElxHw
 
 
 
