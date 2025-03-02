@@ -3,7 +3,7 @@
 
 ![9RC5Y{ 5RCWVPYWX(OZ522X_tmb](https://github.com/user-attachments/assets/4de880e1-49f3-4fba-ae6d-da53f221a594)
 
-the average case doesn't influence the blue part which traversal the array O(N) is setted down no matter the array is best case or worst case. The red line is N- goodpart, so the average is O(N^2)
+the average case doesn't influence the blue part which traversal the array O(N) is setted down no matter the array is best case or worst case. The red line is N- goodpart, so the average is N * N/2,  so the answer is O(N^2)
 
 ## part II
 since the index start with 1 , so the traversal is o(N-1) , if it's the wrost case, the first number will move 1 step the second will move 2 step which is O(N).
